@@ -1,2 +1,2 @@
-# 0990990-naver.com
+# 캡스톤디자인
 CafeIn
